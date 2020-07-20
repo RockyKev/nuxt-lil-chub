@@ -11,7 +11,7 @@
           class="button--green"
         >Check out my SOOOUNDCLOUD!</a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/RockyKev/nuxt-lil-chub"
           target="_blank"
           class="button--grey"
         >Follow me on social media</a>
