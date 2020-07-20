@@ -1,6 +1,6 @@
 # lilchub
 
-> My exceptional Nuxt.js project
+Rapper. Animator. Programmer. Pokemon Master.
 
 ## Build Setup
 
